@@ -16,9 +16,7 @@ dependencies:
   cupertino_icons: ^1.0.2
 
   calculator_plugin:
-    git:
-      url: https://github.com/lorenzoresegottidev-dev/calculator_plugin.git
-      ref: main
+    path: "../calculator_plugin"
 
 dev_dependencies:
   flutter_test:
